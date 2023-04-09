@@ -1,0 +1,42 @@
+.first {
+  background-color: yellow;
+  height: 100px;
+  width: 100px;
+}
+
+.second {
+  background-color: blue;
+  height: 100px;
+  width: 100px;
+  position: relative;
+  left: 100px;
+}
+
+.third {
+  background-color: red;
+  height: 100px;
+  width: 100px;
+  position: absolute;
+  left: 209px;
+}
+
+.forth {
+  background-color: blueviolet;
+  height: 100px;
+  width: 100px;
+}
+
+.fifth {
+  background-color: black;
+  height: 100px;
+  width: 100px;
+  position: absolute;
+  top: 9px;
+  left: 209px;
+}
+
+button {
+  margin-top: 20px;
+  background-color: rgb(148, 148, 148);
+  padding: 8px;
+}
